@@ -37,3 +37,12 @@ I tried to use the IMU sensor to know the driving direction of the vehicle, but 
 
 reference
 + odom_heading.py
+
+### Shortest Path
+---
+
+Dijkstra's algorithm was used to obtain the shortest path, and the shortest path was visualized by comparing the link and node values of the navigation map data we made.
+
+Links on the generated shortest path are connected with a green line to indicate the global path.
+
+Among the global routes, starting with the link closest to the vehicle, links of a certain length are connected with a red line to indicate the local route.
