@@ -22,5 +22,4 @@ To obtain reliable GPS data, rtk was used to reduce the margin of error and the 
 ### Driving direction
 ---
 
-
 I tried to use the IMU sensor to know the driving direction of the vehicle, but the data reliability of the sensor was low, so a new algorithm was applied. The value of the driving direction was obtained from the current coordinates and the previous coordinates, and the slope value of the straight line connecting the two points.
