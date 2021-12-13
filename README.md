@@ -2,7 +2,7 @@
 
 ### Development environment
 > Jetson TX2
-> ros
+> 
 > Gilbot's vehicle
 > 
 > ublox's GPS sensor(c94-m8p)
