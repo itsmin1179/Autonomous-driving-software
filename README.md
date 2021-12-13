@@ -50,3 +50,14 @@ Among the global path, starting with the link closest to the vehicle, links of a
 
 
 ### Path Following
+---
+
+For lateral control, pure pursuit algorithm was used. Since the maximum speed of the vehicle is fixed at a low speed of 10 km/h, the Look-Ahead-Distance value to be used in the algorithm is fixed.
+
+For longitudinal control, PID control was used.
+
+
+### Depth Camera
+---
+
+I couldn't buy a radar or lidar, so I used a depth camera. The distance value from the obstacle and the vehicle recognized by the camera is sent to the data topic. If the value is within 1m, the vehicle stops.
