@@ -20,7 +20,7 @@ This project was developed to be able to generate navigation map data, follow a 
 To obtain reliable GPS data, rtk was used to reduce the margin of error and the data converted to utm coordinate system was used.
 
 The picture below is the intra-school navigation map data created by our team using GPS data.
-
+![교내 항법지도 데이터](https://user-images.githubusercontent.com/60971835/145800246-aa256f5d-a76e-40bd-8369-500ee5d49b5f.png)
 
 reference
 + https://github.com/bao-eng/ublox
@@ -32,7 +32,7 @@ reference
 
 I tried to use the IMU sensor to know the driving direction of the vehicle, but the data reliability of the sensor was low, so a new algorithm was applied. The value of the driving direction was obtained from the current coordinates and the previous coordinates, and the slope value of the straight line connecting the two points.
 
-![heading 알고리즘](https://user-images.githubusercontent.com/60971835/145799719-a45db5b4-e54f-46ab-abd9-b0e9102a083a.png)
+![heading 알고리즘](https://user-images.githubusercontent.com/60971835/145800237-cfdd2257-aeb2-4fbd-bb6a-228f4eb89eae.png)
 
 reference
 + odom_heading.py
