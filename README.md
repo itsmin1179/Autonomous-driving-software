@@ -78,9 +78,10 @@ This is a video of running the program in school. It can be seen that the vehicl
 
 ##### vehicle driving
 
-<iframe width="640" height="360" src="https://youtu.be/WpKtygzY7_A" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![실차주행영상]http://img.youtu.be/WpKtygzY7_A/0.jpg](http://youtu.be/WpKtygzY7_A=0s)
 
 
 ##### driving data
 
-<iframe width="640" height="360" src="https://youtu.be/MrNorOyhIks" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![주행데이터]http://img.youtu.be/MrNorOyhIks/0.jpg](http://youtu.be/MrNorOyhIks/0.jpg=0s)
+
