@@ -19,7 +19,7 @@ This project was developed to be able to generate navigation map data, follow , 
 
 To obtain reliable GPS data, rtk was used to reduce the margin of error and the data converted to utm coordinate system was used.
 
-The picture below is the intra-school navigation map data created by our team using GPS data.
+The picture below is the navigation map data of Kunsan University created by our team using GPS data.
 
 ![교내 항법지도 데이터](https://user-images.githubusercontent.com/60971835/145800246-aa256f5d-a76e-40bd-8369-500ee5d49b5f.png)
 
