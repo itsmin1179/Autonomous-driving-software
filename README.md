@@ -16,3 +16,6 @@ This project was developed to be able to generate navigation map data, follow a 
 
 ### GPS Data
 ---
+
+To obtain reliable GPS data, rtk was used to reduce the margin of error and the data converted to utm coordinate system was used.
+
