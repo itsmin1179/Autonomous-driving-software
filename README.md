@@ -45,4 +45,4 @@ Dijkstra's algorithm was used to obtain the shortest path, and the shortest path
 
 Links on the generated shortest path are connected with a green line to indicate the global path.
 
-Among the global routes, starting with the link closest to the vehicle, links of a certain length are connected with a red line to indicate the local route.
+Among the global path, starting with the link closest to the vehicle, links of a specified length are connected with a red line to indicate the local path.
