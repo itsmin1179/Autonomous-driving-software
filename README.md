@@ -78,10 +78,11 @@ This is a video of running the program in school. It can be seen that the vehicl
 
 ##### vehicle driving
 
-[![실차주행영상]http://img.youtu.be/WpKtygzY7_A/0.jpg](http://youtu.be/WpKtygzY7_A=0s)
+[![실차주행영상](http://img.youtu.be/WpKtygzY7_A/0.jpg)](http://youtu.be/WpKtygzY7_A)
 
+[![Video Label](http://img.youtube.com/vi/mCFHlX2jFnk/0.jpg)](https://youtu.be/mCFHlX2jFnk)
 
 ##### driving data
 
-[![주행데이터]http://img.youtu.be/MrNorOyhIks/0.jpg](http://youtu.be/MrNorOyhIks/0.jpg=0s)
+[![주행데이터](http://img.youtu.be/MrNorOyhIks/0.jpg)](http://youtu.be/MrNorOyhIks/0.jpg)
 
