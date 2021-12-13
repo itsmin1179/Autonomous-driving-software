@@ -1,6 +1,6 @@
 # Autonomous driving software
 
-This project was developed to be able to generate navigation map data, follow a route, and stop driving using ros and python.
+This project was developed to be able to generate navigation map data, follow , and stop driving using ros and python.
 
 #### Development environment
 > Jetson TX2
