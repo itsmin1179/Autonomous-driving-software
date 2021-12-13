@@ -63,3 +63,9 @@ For longitudinal control, PID control was used.
 I couldn't buy a radar or lidar, so I used a depth camera. The distance value from the obstacle and the vehicle recognized by the camera is sent to the data topic. If the value is within 1m, the vehicle stops.
 
 ![Screenshot from 2021-11-25 16-23-18](https://user-images.githubusercontent.com/60971835/145809722-aeec1403-d55a-4687-83bf-d84e07784393.png)
+
+In addition, if you want to install the pyrealsense2 library for running Intel's realsense-ros on the jetson TX2, you need to build it from the source. (Otherwise, it cannot be installed.)
+
+reference
++ https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python
++ https://github.com/IntelRealSense/realsense-ros
