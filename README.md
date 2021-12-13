@@ -38,6 +38,7 @@ I tried to use the IMU sensor to know the driving direction of the vehicle, but 
 reference
 + odom_heading.py
 
+
 ### Shortest Path
 ---
 
@@ -46,3 +47,6 @@ Dijkstra's algorithm was used to obtain the shortest path, and the shortest path
 Links on the generated shortest path are connected with a green line to indicate the global path.
 
 Among the global path, starting with the link closest to the vehicle, links of a specified length are connected with a red line to indicate the local path.
+
+
+### Path Following
