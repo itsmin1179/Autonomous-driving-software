@@ -70,3 +70,17 @@ In addition, if you want to install the pyrealsense2 library for running Intel's
 reference
 + https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python
 + https://github.com/IntelRealSense/realsense-ros
+
+### Driving Test Video
+---
+
+This is a video of running the program in school. It can be seen that the vehicle that is out of the path at the beginning finds the path and stops when an obstacle approaches the vehicle.
+
+##### vehicle driving
+
+<iframe width="640" height="360" src="https://youtu.be/WpKtygzY7_A" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+
+##### driving data
+
+<iframe width="640" height="360" src="https://youtu.be/MrNorOyhIks" frameborder="0" gesture="media" allowfullscreen=""></iframe>
